@@ -12,5 +12,5 @@ let person3=new Person("Abi",20,"abi@gmail.com","Female")
 
 console.log(person1)
 console.log(person2)
-console.log(person3)
+console.log(person3);
 
